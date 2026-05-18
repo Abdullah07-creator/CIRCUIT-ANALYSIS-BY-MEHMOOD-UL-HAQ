@@ -1,2 +1,2 @@
 # CIRCUIT-ANALYSIS-BY-MEHMOOD-UL-HAQ
-These are the Lab Task done by me in CIRCUIT ANALYSIS LAB by SIR MEHMOOD-UL-HAQ in 2nd Smester of COMPUTER ENGINEERING.
+These are the Lab Task performed by me in CIRCUIT ANALYSIS LAB by SIR MEHMOOD-UL-HAQ in 2nd Smester of COMPUTER ENGINEERING.
